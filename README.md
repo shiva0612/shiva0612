@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shiva0612</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working as **SDE@JIO**
+- 🔭 I’m currently working as **SDE 2 @ HDFC Securities**
 - 📫 Email **kshiva.knr@gmail.com**
 - 👨‍💻 Phone [+91-8639322618](+91-8639322618)
 - 👯 Tech Used in Current Job **Golang, gRPC, kafka, Docker, Kubernetes, Redis**
