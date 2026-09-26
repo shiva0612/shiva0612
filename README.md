@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working as **SDE 2 @ HDFC Securities**
 - 📫 Email **kshiva.knr@gmail.com**
-- 👨‍💻 Phone [+91-8639322618](+91-8639322618)
 - 👯 Tech Used in Current Job **Golang, gRPC, kafka, Docker, Kubernetes, Redis**
 
 
